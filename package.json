@@ -1,0 +1,20 @@
+{
+  "name": "notorrent-base",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Russell Hueske <hueske.russ690@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninja4826/noTorrent-base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ninja4826/noTorrent-base/issues"
+  },
+  "homepage": "https://github.com/ninja4826/noTorrent-base#readme",
+  "description": "A torrent client for a headless server."
+}
